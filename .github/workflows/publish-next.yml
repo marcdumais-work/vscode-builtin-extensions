@@ -38,5 +38,10 @@ jobs:
         name: Reset to latest VS Code
       - run: yarn
         name: Bundle Extensions
-      - run: yarn publish:next
-        name: Deploy Extensions
+      # - run: yarn publish:next
+        # name: Deploy Extensions
+      - run: yarn package-vsix:next
+        name: Package extensions in individual .vsix
+      # - run: |
+        # DEBUG=release-it:* yarn release-it --ci
+        # name: Publish on GH Release
