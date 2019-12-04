@@ -40,3 +40,9 @@ jobs:
         name: Bundle Extensions
       - run: yarn publish:next
         name: Deploy Extensions
+      - run: yarn package-vsix:next
+        name: Bundle Extensions in individual .vsix
+      - run: |
+          # cd out
+          yarn run release-it --verbose
+        name: Publish on GH Release

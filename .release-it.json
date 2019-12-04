@@ -1,0 +1,30 @@
+{
+    "git": {
+        "requireCleanWorkingDir": false,
+        "requireUpstream": true,
+        "requireCommits": false,
+        "addUntrackedFiles": false,
+        "commit": true,
+        "commitMessage": "Release v${version}",
+        "commitArgs": "-s",
+        "tag": true,
+        "tagName": "v${version}",
+        "tagAnnotation": "Release v${version}",
+        "tagArgs": "",
+        "push": true,
+        "pushArgs": "--follow-tags",
+        "pushRepo": "marc"
+    },
+    "github": {
+        "release": true,
+        "releaseName": "Release ${version}",
+        "preRelease": true,
+        "draft": true,
+        "tokenRef": "GITHUB_TOKEN",
+        "assets": [
+            "out/yaml-0.3.0-next.9e899b556f.vsix"
+        ],
+        "timeout": 0,
+        "proxy": null
+    }
+}
