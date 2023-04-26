@@ -1,0 +1,143 @@
+Entering 'vscode'
+{
+  "filename": "extensions/vscode-test-resolver/package.json",
+  "enabledApiProposals": [
+    "resolvers",
+    "tunnels"
+  ]
+}
+{
+  "filename": "extensions/json-language-features/package.json",
+  "enabledApiProposals": []
+}
+{
+  "filename": "extensions/git/package.json",
+  "enabledApiProposals": [
+    "diffCommand",
+    "contribEditorContentMenu",
+    "contribEditSessions",
+    "contribViewsWelcome",
+    "editSessionIdentityProvider",
+    "quickDiffProvider",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "tabInputTextMerge",
+    "timeline",
+    "contribMergeEditorMenus"
+  ]
+}
+{
+  "filename": "extensions/html-language-features/package.json",
+  "enabledApiProposals": [
+    "extensionsAny"
+  ]
+}
+{
+  "filename": "extensions/github/package.json",
+  "enabledApiProposals": [
+    "contribShareMenu",
+    "contribEditSessions"
+  ]
+}
+{
+  "filename": "extensions/ipynb/package.json",
+  "enabledApiProposals": [
+    "documentPaste",
+    "diffContentOptions",
+    "dropMetadata"
+  ]
+}
+{
+  "filename": "extensions/typescript-language-features/package.json",
+  "enabledApiProposals": [
+    "workspaceTrust"
+  ]
+}
+{
+  "filename": "extensions/markdown-language-features/package.json",
+  "enabledApiProposals": [
+    "documentPaste",
+    "dropMetadata"
+  ]
+}
+{
+  "filename": "extensions/debug-server-ready/package.json",
+  "enabledApiProposals": [
+    "terminalDataWriteEvent"
+  ]
+}
+{
+  "filename": "extensions/configuration-editing/package.json",
+  "enabledApiProposals": [
+    "profileContentHandlers"
+  ]
+}
+{
+  "filename": "extensions/npm/package.json",
+  "enabledApiProposals": [
+    "terminalQuickFixProvider"
+  ]
+}
+{
+  "filename": "extensions/search-result/package.json",
+  "enabledApiProposals": [
+    "documentFiltersExclusive"
+  ]
+}
+{
+  "filename": "extensions/vscode-api-tests/package.json",
+  "enabledApiProposals": [
+    "authSession",
+    "contribViewsRemote",
+    "customEditorMove",
+    "diffCommand",
+    "documentFiltersExclusive",
+    "editorInsets",
+    "extensionRuntime",
+    "extensionsAny",
+    "externalUriOpener",
+    "fileSearchProvider",
+    "findTextInFiles",
+    "fsChunks",
+    "notebookCellExecutionState",
+    "notebookDeprecated",
+    "notebookLiveShare",
+    "notebookMessaging",
+    "notebookMime",
+    "portsAttributes",
+    "quickPickSortByLabel",
+    "resolvers",
+    "saveEditor",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmTextDocument",
+    "scmValidation",
+    "taskPresentationGroup",
+    "terminalDataWriteEvent",
+    "terminalDimensions",
+    "tunnels",
+    "envShellEvent",
+    "testCoverage",
+    "testObserver",
+    "textSearchProvider",
+    "timeline",
+    "tokenInformation",
+    "treeItemCheckbox",
+    "treeViewReveal",
+    "workspaceTrust",
+    "telemetry"
+  ]
+}
+{
+  "filename": "extensions/simple-browser/package.json",
+  "enabledApiProposals": [
+    "externalUriOpener"
+  ]
+}
+{
+  "filename": "extensions/microsoft-authentication/package.json",
+  "enabledApiProposals": [
+    "idToken"
+  ]
+}

@@ -1,0 +1,134 @@
+Entering 'vscode'
+{
+  "filename": "extensions/vscode-test-resolver/package.json",
+  "enabledApiProposals": [
+    "resolvers"
+  ]
+}
+{
+  "filename": "extensions/git/package.json",
+  "enabledApiProposals": [
+    "diffCommand",
+    "contribMergeEditorToolbar",
+    "contribViewsWelcome",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "tabInputTextMerge",
+    "timeline"
+  ]
+}
+{
+  "filename": "extensions/html-language-features/package.json",
+  "enabledApiProposals": [
+    "extensionsAny"
+  ]
+}
+{
+  "filename": "extensions/vscode-notebook-tests/package.json",
+  "enabledApiProposals": [
+    "notebookCellExecutionState",
+    "notebookContentProvider",
+    "notebookControllerKind",
+    "notebookDebugOptions",
+    "notebookDeprecated",
+    "notebookLiveShare",
+    "notebookMessaging",
+    "notebookMime"
+  ]
+}
+{
+  "filename": "extensions/github/package.json",
+  "enabledApiProposals": [
+    "contribShareMenu",
+    "contribEditSessions"
+  ]
+}
+{
+  "filename": "extensions/ipynb/package.json",
+  "enabledApiProposals": [
+    "notebookWorkspaceEdit"
+  ]
+}
+{
+  "filename": "extensions/typescript-language-features/package.json",
+  "enabledApiProposals": [
+    "resolvers",
+    "workspaceTrust"
+  ]
+}
+{
+  "filename": "extensions/markdown-language-features/package.json",
+  "enabledApiProposals": [
+    "documentPaste"
+  ]
+}
+{
+  "filename": "extensions/debug-server-ready/package.json",
+  "enabledApiProposals": [
+    "terminalDataWriteEvent"
+  ]
+}
+{
+  "filename": "extensions/search-result/package.json",
+  "enabledApiProposals": [
+    "documentFiltersExclusive"
+  ]
+}
+{
+  "filename": "extensions/vscode-api-tests/package.json",
+  "enabledApiProposals": [
+    "authSession",
+    "badges",
+    "contribViewsRemote",
+    "customEditorMove",
+    "diffCommand",
+    "documentFiltersExclusive",
+    "editorInsets",
+    "extensionRuntime",
+    "extensionsAny",
+    "externalUriOpener",
+    "fileSearchProvider",
+    "findTextInFiles",
+    "fsChunks",
+    "notebookCellExecutionState",
+    "notebookContentProvider",
+    "notebookControllerKind",
+    "notebookDebugOptions",
+    "notebookDeprecated",
+    "notebookEditorEdit",
+    "notebookLiveShare",
+    "notebookMessaging",
+    "notebookMime",
+    "portsAttributes",
+    "quickPickSortByLabel",
+    "resolvers",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "snippetWorkspaceEdit",
+    "taskPresentationGroup",
+    "terminalDataWriteEvent",
+    "terminalDimensions",
+    "testCoverage",
+    "testObserver",
+    "textSearchProvider",
+    "timeline",
+    "tokenInformation",
+    "treeViewReveal",
+    "workspaceTrust",
+    "telemetry"
+  ]
+}
+{
+  "filename": "extensions/simple-browser/package.json",
+  "enabledApiProposals": [
+    "externalUriOpener"
+  ]
+}
+{
+  "filename": "extensions/microsoft-authentication/package.json",
+  "enabledApiProposals": [
+    "idToken"
+  ]
+}

@@ -1,0 +1,132 @@
+Entering 'vscode'
+{
+  "filename": "extensions/vscode-test-resolver/package.json",
+  "enabledApiProposals": [
+    "resolvers"
+  ]
+}
+{
+  "filename": "extensions/git/package.json",
+  "enabledApiProposals": [
+    "diffCommand",
+    "contribEditorContentMenu",
+    "contribViewsWelcome",
+    "editSessionIdentityProvider",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "tabInputTextMerge",
+    "timeline",
+    "contribMergeEditorMenus"
+  ]
+}
+{
+  "filename": "extensions/html-language-features/package.json",
+  "enabledApiProposals": [
+    "extensionsAny"
+  ]
+}
+{
+  "filename": "extensions/github/package.json",
+  "enabledApiProposals": [
+    "contribShareMenu",
+    "contribEditSessions"
+  ]
+}
+{
+  "filename": "extensions/github-authentication/package.json",
+  "enabledApiProposals": [
+    "extensionLog"
+  ]
+}
+{
+  "filename": "extensions/ipynb/package.json",
+  "enabledApiProposals": [
+    "documentPaste",
+    "diffContentOptions"
+  ]
+}
+{
+  "filename": "extensions/typescript-language-features/package.json",
+  "enabledApiProposals": [
+    "resolvers",
+    "workspaceTrust",
+    "workspaceEditIsRefactoring"
+  ]
+}
+{
+  "filename": "extensions/markdown-language-features/package.json",
+  "enabledApiProposals": [
+    "documentPaste"
+  ]
+}
+{
+  "filename": "extensions/debug-server-ready/package.json",
+  "enabledApiProposals": [
+    "terminalDataWriteEvent"
+  ]
+}
+{
+  "filename": "extensions/search-result/package.json",
+  "enabledApiProposals": [
+    "documentFiltersExclusive"
+  ]
+}
+{
+  "filename": "extensions/vscode-api-tests/package.json",
+  "enabledApiProposals": [
+    "authSession",
+    "contribViewsRemote",
+    "customEditorMove",
+    "diffCommand",
+    "documentFiltersExclusive",
+    "editorInsets",
+    "extensionRuntime",
+    "extensionsAny",
+    "externalUriOpener",
+    "fileSearchProvider",
+    "findTextInFiles",
+    "fsChunks",
+    "notebookCellExecutionState",
+    "notebookContentProvider",
+    "notebookControllerKind",
+    "notebookDebugOptions",
+    "notebookDeprecated",
+    "notebookLiveShare",
+    "notebookMessaging",
+    "notebookMime",
+    "portsAttributes",
+    "quickPickSortByLabel",
+    "resolvers",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "taskPresentationGroup",
+    "terminalDataWriteEvent",
+    "terminalDimensions",
+    "envShellEvent",
+    "testCoverage",
+    "testObserver",
+    "textSearchProvider",
+    "timeline",
+    "tokenInformation",
+    "treeItemCheckbox",
+    "treeViewReveal",
+    "workspaceTrust",
+    "telemetry",
+    "localization"
+  ]
+}
+{
+  "filename": "extensions/simple-browser/package.json",
+  "enabledApiProposals": [
+    "externalUriOpener"
+  ]
+}
+{
+  "filename": "extensions/microsoft-authentication/package.json",
+  "enabledApiProposals": [
+    "idToken",
+    "extensionLog"
+  ]
+}

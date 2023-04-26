@@ -1,0 +1,154 @@
+Entering 'vscode'
+{
+  "filename": "extensions/vscode-test-resolver/package.json",
+  "enabledApiProposals": [
+    "resolvers",
+    "tunnels"
+  ]
+}
+{
+  "filename": "extensions/json-language-features/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger"
+  ]
+}
+{
+  "filename": "extensions/git/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger",
+    "diffCommand",
+    "contribEditorContentMenu",
+    "contribViewsWelcome",
+    "editSessionIdentityProvider",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "tabInputTextMerge",
+    "timeline",
+    "contribMergeEditorMenus"
+  ]
+}
+{
+  "filename": "extensions/html-language-features/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger",
+    "extensionsAny"
+  ]
+}
+{
+  "filename": "extensions/github/package.json",
+  "enabledApiProposals": [
+    "contribShareMenu",
+    "contribEditSessions",
+    "profileContentHandlers"
+  ]
+}
+{
+  "filename": "extensions/github-authentication/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger"
+  ]
+}
+{
+  "filename": "extensions/ipynb/package.json",
+  "enabledApiProposals": [
+    "documentPaste",
+    "diffContentOptions"
+  ]
+}
+{
+  "filename": "extensions/typescript-language-features/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger",
+    "resolvers",
+    "workspaceTrust"
+  ]
+}
+{
+  "filename": "extensions/markdown-language-features/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger",
+    "documentPaste"
+  ]
+}
+{
+  "filename": "extensions/debug-server-ready/package.json",
+  "enabledApiProposals": [
+    "terminalDataWriteEvent"
+  ]
+}
+{
+  "filename": "extensions/search-result/package.json",
+  "enabledApiProposals": [
+    "documentFiltersExclusive"
+  ]
+}
+{
+  "filename": "extensions/vscode-api-tests/package.json",
+  "enabledApiProposals": [
+    "authSession",
+    "contribViewsRemote",
+    "customEditorMove",
+    "diffCommand",
+    "documentFiltersExclusive",
+    "editorInsets",
+    "extensionRuntime",
+    "extensionsAny",
+    "externalUriOpener",
+    "fileSearchProvider",
+    "findTextInFiles",
+    "fsChunks",
+    "notebookCellExecutionState",
+    "notebookControllerKind",
+    "notebookDeprecated",
+    "notebookLiveShare",
+    "notebookMessaging",
+    "notebookMime",
+    "portsAttributes",
+    "quickPickSortByLabel",
+    "resolvers",
+    "scmActionButton",
+    "scmSelectedProvider",
+    "scmValidation",
+    "taskPresentationGroup",
+    "terminalDataWriteEvent",
+    "terminalDimensions",
+    "tunnels",
+    "envShellEvent",
+    "testCoverage",
+    "testObserver",
+    "textSearchProvider",
+    "timeline",
+    "tokenInformation",
+    "treeItemCheckbox",
+    "treeViewReveal",
+    "workspaceTrust",
+    "telemetry"
+  ]
+}
+{
+  "filename": "extensions/simple-browser/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger",
+    "externalUriOpener"
+  ]
+}
+{
+  "filename": "extensions/microsoft-authentication/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger",
+    "idToken"
+  ]
+}
+{
+  "filename": "extensions/media-preview/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger"
+  ]
+}
+{
+  "filename": "extensions/merge-conflict/package.json",
+  "enabledApiProposals": [
+    "telemetryLogger"
+  ]
+}
